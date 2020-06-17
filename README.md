@@ -1,2 +1,2 @@
 # webrtc2sip
-Please put config.xml to /usr/src/webrtc2sip directory
+Please put config.xml into /usr/src/webrtc2sip directory
